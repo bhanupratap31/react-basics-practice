@@ -10,7 +10,6 @@ function App() {
   )
 }
 
-//component 
 
 function CustomButton (props){
 
